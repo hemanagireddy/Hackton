@@ -1,0 +1,45 @@
+{
+    padding:0;
+    margin:0;
+}
+nav{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:10px 0px;
+}
+.plus-color{
+    color:yellow;
+    font-weight: 900;
+}
+.logo p{
+    color: white;
+    position:relative;
+    top:-5px;
+}
+.search{
+    background-color: white;
+    padding:8px;
+    top:400px;
+    margin:0px 15px;
+}
+.search input{
+    width: 380px;
+    border: none;
+    outline: none;
+    font-size: 14px;
+}
+.loginBtn{
+    padding:5px 30px;
+    font-size: 16px;
+    font-weight: 550;
+    border:none;
+    outline:none;
+    color:blue;
+}
+.Navlink{
+    margin:0px 20px;
+    font-size: 18px;
+    
+}
